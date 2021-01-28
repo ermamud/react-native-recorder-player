@@ -1,0 +1,1 @@
+React native using `react-native-audio-recorder-player` library for recording audio from microphone and playing/pause/stop the audio.
